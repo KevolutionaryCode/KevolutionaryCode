@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kevin 👋
 
-<!--
-**KevolutionaryCode/KevolutionaryCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focused on backend development, Go, and open source software.
 
-Here are some ideas to get you started:
+Currently learning:
+- Computer Science fundamentals
+- Go
+- Backend engineering
+- Git and GitHub
+- Open-source contribution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Backend engineering
+- Go
+- Testing and debugging
+- Open source
+- Software engineering fundamentals
+
+## Open source
+
+I'm currently learning through real contributions to open-source projects and building experience working with production codebases.
+
+## Goal
+
+My long-term goal is to become a strong software engineer, contribute meaningfully to open-source projects, and build products of my own.
+
