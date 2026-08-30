@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 👋
 
-I'm a Computer Science student focused on backend development, Go, and open source software.
+I'm a Computer Science student focused on backend development, Go, and open-source software.
 
 Currently learning:
 - Computer Science fundamentals
