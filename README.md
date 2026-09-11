@@ -1,27 +1,15 @@
-# Hi, I'm Kevin 👋
+# Kevin
 
-I'm a Computer Science student focused on backend development, Go, and open-source software.
+Learning computer science by building software.
 
-Currently learning:
-- Computer Science fundamentals
-- Go
-- Backend engineering
-- Git and GitHub
-- Open-source contribution
+Right now I'm working mainly with Go and focusing on:
 
-## Current focus
-
-- Backend engineering
-- Go
+- Data structures and algorithms
+- Linux
+- PostgreSQL
+- Networking
 - Testing and debugging
-- Open source
-- Software engineering fundamentals
 
-## Open source
+I'm especially interested in backend systems and observability.
 
-I'm currently learning through real contributions to open-source projects and building experience working with production codebases.
-
-## Goal
-
-My long-term goal is to become a strong software engineer, contribute meaningfully to open-source projects, and build products of my own.
-
+This GitHub is where I keep the projects and experiments I build while learning.
